@@ -2,11 +2,11 @@ locales:
   /:
     lang: en-US
     langName: EN
-    title: Mister-Hope | Portfolio
-    description: The personal portfolio of Mister-Hope, a front-end developer and physics educator.
+    title: Hefou | Portfolio
+    description: The personal portfolio of Hefou, a front-end developer and physics educator.
 
     hero:
-      name: Mister-Hope
+      name: Hefou
       welcome: 👋 Greetings, I am
       titles:
         - High School Physics Teacher
@@ -18,19 +18,19 @@ locales:
       medias:
         - icon: fa7-brands:blogger
           name: Blog
-          link: https://mister-hope.com
+          link: https://Hefou.com
 
         - icon: fa7-brands:github
           name: GitHub
-          link: https://github.com/Mister-Hope
+          link: https://github.com/Hefou
 
         - icon: fa7-brands:linkedin-in
           name: LinkedIn
-          link: https://www.linkedin.com/in/mister-hope/
+          link: https://www.linkedin.com/in/Hefou/
 
         - icon: simple-icons:zhihu
           name: Zhihu
-          link: https://www.zhihu.com/people/mister-hope
+          link: https://www.zhihu.com/people/Hefou
 
         - icon: fa7-brands:steam
           name: Steam
@@ -75,7 +75,7 @@ locales:
 
           contacts:
             - label: Email
-              value: mister-hope@outlook.com
+              value: Hefou@outlook.com
               icon: envelope
 
             - label: Telegram
@@ -209,7 +209,7 @@ locales:
             actions:
               - icon: logos:typescript-icon
               - text: GitHub
-                link: https://github.com/Mister-Hope/bcrypt-ts
+                link: https://github.com/Hefou/bcrypt-ts
                 icon: fa7-brands:github
 
           - title: portfolio-template
@@ -221,7 +221,7 @@ locales:
               - icon: logos:tailwindcss-icon
               - icon: logos:vitejs
               - text: GitHub
-                link: https://github.com/Mister-Hope/portfolio-template
+                link: https://github.com/Hefou/portfolio-template
                 icon: fa7-brands:github
 
           - title: slimsearch
@@ -230,7 +230,7 @@ locales:
             actions:
               - icon: logos:typescript-icon
               - text: GitHub
-                link: https://github.com/Mister-Hope/slimsearch
+                link: https://github.com/Hefou/slimsearch
                 icon: fa7-brands:github
 
           - title: webpack-v5-chain
@@ -240,7 +240,7 @@ locales:
               - icon: logos:typescript-icon
               - icon: logos:webpack
               - text: GitHub
-                link: https://github.com/Mister-Hope/webpack-v5-chain
+                link: https://github.com/Hefou/webpack-v5-chain
                 icon: fa7-brands:github
 
           - title: gulp5-sass-plugin
@@ -251,7 +251,7 @@ locales:
               - icon: logos:gulp
               - icon: logos:sass
               - text: GitHub
-                link: https://github.com/Mister-Hope/gulp5-sass-plugin
+                link: https://github.com/Hefou/gulp5-sass-plugin
                 icon: fa7-brands:github
 
           - title: create-codepen
@@ -261,7 +261,7 @@ locales:
               - icon: logos:typescript-icon
               - icon: logos:codepen-icon
               - text: GitHub
-                link: https://github.com/Mister-Hope/create-codepen
+                link: https://github.com/Hefou/create-codepen
                 icon: fa7-brands:github
 
           - title: rollup-plugin-resolve-shebang
@@ -271,7 +271,7 @@ locales:
               - icon: logos:typescript-icon
               - icon: logos:rollup
               - text: GitHub
-                link: https://github.com/Mister-Hope/rollup-plugin-resolve-shebang
+                link: https://github.com/Hefou/rollup-plugin-resolve-shebang
                 icon: fa7-brands:github
 
       - type: cards
@@ -285,7 +285,7 @@ locales:
               DOI: <https://doi.org/10.1103/PhysRevA.111.063702>
             actions:
               - text: Read Full Text
-                link: https://drive.mister-hope.com/public/files/PhysRevA.111.063702.pdf
+                link: https://drive.Hefou.com/public/files/PhysRevA.111.063702.pdf
                 icon: external-link
 
     footer:
@@ -295,14 +295,14 @@ locales:
   /zh/:
     lang: zh-CN
     langName: 中文
-    title: Mister-Hope | 作品集
-    description: Mister-Hope 的个人作品集——前端开发者与物理教师。
+    title: Hefou | 作品集
+    description: Hefou 的个人作品集——前端开发者与物理教师。
     ui:
       themeToggle: 切换主题
       contact: 联系
 
     hero:
-      name: Mister-Hope
+      name: Hefou
       welcome: 👋 欢迎，我是
       titles:
         - 高中物理教师
@@ -314,19 +314,19 @@ locales:
       medias:
         - icon: fa7-brands:blogger
           name: 博客
-          link: https://mister-hope.com
+          link: https://Hefou.com
 
         - icon: fa7-brands:github
           name: GitHub
-          link: https://github.com/Mister-Hope
+          link: https://github.com/Hefou
 
         - icon: fa7-brands:linkedin-in
           name: 领英
-          link: https://www.linkedin.com/in/mister-hope/
+          link: https://www.linkedin.com/in/Hefou/
 
         - icon: simple-icons:zhihu
           name: 知乎
-          link: https://www.zhihu.com/people/mister-hope
+          link: https://www.zhihu.com/people/Hefou
 
         - icon: fa7-brands:steam
           name: Steam
@@ -371,7 +371,7 @@ locales:
 
           contacts:
             - label: 邮箱
-              value: mister-hope@outlook.com
+              value: Hefou@outlook.com
               icon: envelope
 
             - label: QQ
@@ -534,7 +534,7 @@ locales:
             actions:
               - icon: logos:typescript-icon
               - text: GitHub
-                link: https://github.com/Mister-Hope/bcrypt-ts
+                link: https://github.com/Hefou/bcrypt-ts
                 icon: fa7-brands:github
 
           - title: portfolio-template
@@ -546,7 +546,7 @@ locales:
               - icon: logos:tailwindcss-icon
               - icon: logos:vitejs
               - text: GitHub
-                link: https://github.com/Mister-Hope/portfolio-template
+                link: https://github.com/Hefou/portfolio-template
                 icon: fa7-brands:github
 
           - title: slimsearch
@@ -555,7 +555,7 @@ locales:
             actions:
               - icon: logos:typescript-icon
               - text: GitHub
-                link: https://github.com/Mister-Hope/slimsearch
+                link: https://github.com/Hefou/slimsearch
                 icon: fa7-brands:github
 
           - title: webpack-v5-chain
@@ -565,7 +565,7 @@ locales:
               - icon: logos:typescript-icon
               - icon: logos:webpack
               - text: GitHub
-                link: https://github.com/Mister-Hope/webpack-v5-chain
+                link: https://github.com/Hefou/webpack-v5-chain
                 icon: fa7-brands:github
 
           - title: gulp5-sass-plugin
@@ -576,7 +576,7 @@ locales:
               - icon: logos:gulp
               - icon: logos:sass
               - text: GitHub
-                link: https://github.com/Mister-Hope/gulp5-sass-plugin
+                link: https://github.com/Hefou/gulp5-sass-plugin
                 icon: fa7-brands:github
 
           - title: create-codepen
@@ -586,7 +586,7 @@ locales:
               - icon: logos:typescript-icon
               - icon: logos:codepen-icon
               - text: GitHub
-                link: https://github.com/Mister-Hope/create-codepen
+                link: https://github.com/Hefou/create-codepen
                 icon: fa7-brands:github
 
           - title: rollup-plugin-resolve-shebang
@@ -596,7 +596,7 @@ locales:
               - icon: logos:typescript-icon
               - icon: logos:rollup
               - text: GitHub
-                link: https://github.com/Mister-Hope/rollup-plugin-resolve-shebang
+                link: https://github.com/Hefou/rollup-plugin-resolve-shebang
                 icon: fa7-brands:github
 
       - type: cards
@@ -610,14 +610,14 @@ locales:
               DOI: <https://doi.org/10.1103/PhysRevA.111.063702>
             actions:
               - text: 阅读全文
-                link: https://drive.mister-hope.com/PhysRevA.111.063702.pdf
+                link: https://drive.Hefou.com/PhysRevA.111.063702.pdf
                 icon: external-link
 
           - title: 非厄米光学系统的调控与动力学演化
             category: 硕士学位论文
             actions:
               - text: 阅读全文
-                link: https://drive.mister-hope.com/%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87.pdf
+                link: https://drive.Hefou.com/%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87.pdf
                 icon: external-link
 
     footer:
