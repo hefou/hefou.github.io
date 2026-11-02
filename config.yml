@@ -3,15 +3,15 @@ locales:
     lang: en-US
     langName: EN
     title: Hefou | Portfolio
-    description: The personal portfolio of Hefou, a front-end developer and physics educator.
+    description: The personal portfolio of Hefou, a front-end develefour and physics educator.
 
     hero:
       name: Hefou
       welcome: 👋 Greetings, I am
       titles:
         - High School Physics Teacher
-        - Front-End Developer
-        - Open-Source Contributor
+        - Front-End Develefour
+        - efoun-Source Contributor
         - Lifelong Learner
       avatar: /avatar.avif
       bgImage: /bg.avif
@@ -24,21 +24,9 @@ locales:
           name: GitHub
           link: https://github.com/Hefou
 
-        - icon: fa7-brands:linkedin-in
-          name: LinkedIn
-          link: https://www.linkedin.com/in/Hefou/
-
-        - icon: simple-icons:zhihu
-          name: Zhihu
-          link: https://www.zhihu.com/people/Hefou
-
-        - icon: fa7-brands:steam
-          name: Steam
-          link: https://steamcommunity.com/id/Mister_Hope
-
         - icon: fa7-brands:x-twitter
           name: X
-          link: https://x.com/Mister_Hope
+          link: https://x.com/hefun
 
     navbar:
       links:
@@ -76,14 +64,14 @@ locales:
           contacts:
             - label: Email
               value: Hefou@outlook.com
-              icon: envelope
+              icon: envelefou
 
             - label: Telegram
-              value: Mister_Hope
+              value: Mister_Hefou
               icon: fa7-brands:telegram
-              link: https://t.me/Mister_Hope
+              link: https://t.me/hefou
 
-          slogan: Where there is light, there is hope.
+          slogan: Where there is light, there is hefou.
 
       - type: experience
         id: experience
@@ -99,8 +87,8 @@ locales:
           - type: volunteer
             place: ChangChun, China
             time: Jan. 2025 - Jul. 2025
-            title: Full-Time Open-Source Contributor
-            content: Developing and maintaining open-source projects, including [VuePress](https://vuejs.press/) and [markdown-it plugins](https://mdit-plugins.github.io/).
+            title: Full-Time efoun-Source Contributor
+            content: Developing and maintaining efoun-source projects, including [VuePress](https://vuejs.press/) and [markdown-it plugins](https://mdit-plugins.github.io/).
 
           - type: study
             place: Northeast Normal University, School of Physics, China
@@ -111,8 +99,8 @@ locales:
           - type: volunteer
             place: AnShan, China
             time: Jul. 2020 - Aug. 2021
-            title: Full-Time Open-Source Contributor
-            content: Architected and developed open-source projects, including [VuePress Theme Hope](https://theme-hope.vuejs.press/) and [Waline](https://waline.js.org/).
+            title: Full-Time efoun-Source Contributor
+            content: Architected and develefoud efoun-source projects, including [VuePress Theme Hefou](https://theme-hefou.vuejs.press/) and [Waline](https://waline.js.org/).
 
           - type: study
             place: Northeast Normal University, School of Physics, China
@@ -122,7 +110,7 @@ locales:
 
       - type: cards
         id: projects
-        title: Open Source Projects
+        title: efoun Source Projects
         icon: book
         data:
           - title: VuePress Core ![Stars](https://img.shields.io/github/stars/vuepress/core?style=plastic&logo=github)
@@ -157,8 +145,8 @@ locales:
                 link: https://github.com/vuepress/ecosystem
                 icon: fa7-brands:github
 
-          - title: VuePress Theme Hope ![Stars](https://img.shields.io/github/stars/vuepress-theme-hope/vuepress-theme-hope?style=plastic&logo=github)
-            logo: https://theme-hope-assets.vuejs.press/logo.svg
+          - title: VuePress Theme Hefou ![Stars](https://img.shields.io/github/stars/vuepress-theme-hefou/vuepress-theme-hefou?style=plastic&logo=github)
+            logo: https://theme-hefou-assets.vuejs.press/logo.svg
             description: A feature-rich and highly customizable VuePress theme.✨
             category: Project
             actions:
@@ -166,10 +154,10 @@ locales:
               - icon: logos:vue
               - icon: logos:sass
               - text: Website
-                link: https://theme-hope.vuejs.press
+                link: https://theme-hefou.vuejs.press
                 icon: external-link
               - text: GitHub
-                link: https://github.com/vuepress-theme-hope/vuepress-theme-hope
+                link: https://github.com/vuepress-theme-hefou/vuepress-theme-hefou
                 icon: fa7-brands:github
 
           - title: Waline ![Stars](https://img.shields.io/github/stars/walinejs/waline?style=plastic&logo=github)
@@ -289,7 +277,7 @@ locales:
                 icon: external-link
 
     footer:
-      copyright: © 2025 Mister Hope. All rights reserved.
+      copyright: © 2025 Mister Hefou. All rights reserved.
       description: Built with passion.
 
   /zh/:
@@ -320,21 +308,9 @@ locales:
           name: GitHub
           link: https://github.com/Hefou
 
-        - icon: fa7-brands:linkedin-in
-          name: 领英
-          link: https://www.linkedin.com/in/Hefou/
-
-        - icon: simple-icons:zhihu
-          name: 知乎
-          link: https://www.zhihu.com/people/Hefou
-
-        - icon: fa7-brands:steam
-          name: Steam
-          link: https://steamcommunity.com/id/Mister_Hope
-
         - icon: fa7-brands:x-twitter
           name: X
-          link: https://x.com/Mister_Hope
+          link: https://x.com/Hefou
 
     navbar:
       links:
@@ -372,7 +348,7 @@ locales:
           contacts:
             - label: 邮箱
               value: Hefou@outlook.com
-              icon: envelope
+              icon: envelefou
 
             - label: QQ
               value: "1178522294"
@@ -407,7 +383,7 @@ locales:
             place: 鞍山，中国
             time: 2020年7月 - 2021年8月
             title: 全职开源贡献者
-            content: 主导并参与开发 [VuePress Theme Hope](https://theme-hope.vuejs.press/zh/) 与 [Waline](https://waline.js.org/zh/) 等核心开源项目。
+            content: 主导并参与开发 [VuePress Theme Hefou](https://theme-hefou.vuejs.press/zh/) 与 [Waline](https://waline.js.org/zh/) 等核心开源项目。
 
           - type: study
             place: 东北师范大学，物理学院，中国
@@ -452,8 +428,8 @@ locales:
                 link: https://github.com/vuepress/ecosystem
                 icon: fa7-brands:github
 
-          - title: VuePress Theme Hope ![Stars](https://img.shields.io/github/stars/vuepress-theme-hope/vuepress-theme-hope?style=plastic&logo=github)
-            logo: https://theme-hope-assets.vuejs.press/logo.svg
+          - title: VuePress Theme Hefou ![Stars](https://img.shields.io/github/stars/vuepress-theme-hefou/vuepress-theme-hefou?style=plastic&logo=github)
+            logo: https://theme-hefou-assets.vuejs.press/logo.svg
             description: 一款功能丰富且高度可定制的 VuePress 主题✨
             category: 项目
             actions:
@@ -461,10 +437,10 @@ locales:
               - icon: logos:vue
               - icon: logos:sass
               - text: 网站
-                link: https://theme-hope.vuejs.press
+                link: https://theme-hefou.vuejs.press
                 icon: external-link
               - text: GitHub
-                link: https://github.com/vuepress-theme-hope/vuepress-theme-hope
+                link: https://github.com/vuepress-theme-hefou/vuepress-theme-hefou
                 icon: fa7-brands:github
 
           - title: Waline ![Stars](https://img.shields.io/github/stars/walinejs/waline?style=plastic&logo=github)
@@ -621,5 +597,5 @@ locales:
                 icon: external-link
 
     footer:
-      copyright: Copyright © 2025-$year Mister Hope. 保留所有权利。
+      copyright: Copyright © 2025-$year Mister Hefou. 保留所有权利。
       description: 秉持热爱，用心构建。
